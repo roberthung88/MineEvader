@@ -1,2 +1,4 @@
 # MineEvader
-A Game of Minesweeper
+A Game of Minesweeper designed using Swing.
+
+
